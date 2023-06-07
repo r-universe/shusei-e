@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "RcppJagger"]
+	path = RcppJagger
+	url = https://github.com/shusei-e/rcppjagger
+	shallow = true
+	registered = true
